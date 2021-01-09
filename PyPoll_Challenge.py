@@ -150,7 +150,7 @@ with open(file_to_save, "w") as txt_file:
     # Print the winning candidate (to terminal)
     winning_candidate_summary = (
         f"-------------------------\n"
-        f"Winner: {candidate_name}\n"
+        f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
         f"Winning Percentage: {winning_percentage:.1f}%\n"
         f"-------------------------\n")
