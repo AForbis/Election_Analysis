@@ -37,7 +37,7 @@ With some modifications, this script can be used for any election, including one
 - The script could also be modified to report out additional voter data in each election (e.g., vote breakdown by gender, ethnicity, zipcode)
 
 ## **Resources**
-- Data Source: election_results.csv
-- Final code: PyPoll_Challenge.py
+- Data Source: [election_results.csv]
+- Final code: [PyPoll_Challenge.py]
 - Software: Python 3.7.6, Visual Studio Code, 1.52.1
 
