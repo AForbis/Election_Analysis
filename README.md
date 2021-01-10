@@ -15,26 +15,24 @@ The analysis of the election shows that:
 1) There were 369,711 votes cast in the election.
 2) The 3 candidates who received votes were: 
 	- Charles Casper Stockham, Diane DeGette, and Raymon Anthony Doane.
-3) The candidate results were:
+3/4) The candidate results were:
 	- Charles Casper Stockham received 23.0% of the vote with 85,213 votes.
 	- Diane DeGette received 73.8% of the vote with 272,892 votes.
 	- Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
-4) The winner of the election was:
+5) The winner of the election was:
 	- Diane DeGette, who received 73.8% of the vote with 272,892 votes.
-5) The county results were:
+6) The county results were:
 	- Jefferson county accounted for 10.5% of the vote with 38,855 of votes.
 	- Denver county accounted for 82.8% of the vote with 306,055 of votes.
 	- Arapahoe county accounted for 6.7% of the vote with 24,801 of votes.
-6) The county with the largest number of votes was:
+7) The county with the largest number of votes was:
 	- Denver county, which accounted for 82.8% of the vote with 306,055 of votes.
-7) The following image of the election results that were written into our .txt file at the end of the audit also offer a useful and concise visual of the election results:
+- To supplement the above list with a concise visual, the following is an image of the election results written into our .txt file at the end of the audit.
 
 ![](electionResultsPic.png)
 
 ## **Election-Audit Summary**
-With some modifications, this script can be used for any election, including one with more expansive voter data. 
-- For example, the script could be modified to adapt to a different type of election (e.g., school board, U.S. senate, U.S. presidential).
-- The script could also be modified to report out additional voter data in each election (e.g., vote breakdown by gender, ethnicity, zipcode)
+In addition to repeating an audit of a congressional election, the script could be modified to audit other types elections (e.g., school board, U.S. senate, U.S. presidential). The script could also be modified to report out additional voter data in each election (e.g., vote totals and percentages by gender, ethnicity, zipcode).
 
 ## **Resources**
 - Data Source: [election_results.csv](election_results.csv)
