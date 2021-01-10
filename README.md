@@ -32,7 +32,7 @@ The analysis of the election shows that:
 ![](electionResultsPic.png)
 
 ## **Election-Audit Summary**
-In addition to reusing the script to audit another congressional election, the script could be modified to audit other types of elections (e.g., school board, U.S. Senate, U.S. presidential). The script could also be modified to report out additional voter data in each election (e.g., vote totals and percentages by gender, ethnicity, zipcode, income).
+In addition to reusing the script to audit another congressional election, the script could be modified to audit other types of elections (e.g., school board, U.S. Senate, U.S. presidential). The script could also be modified to report out additional voter demographic data in each election (e.g., vote totals and percentages by gender, ethnicity, zipcode, income).
 
 ## **Resources**
 - Data Source: [election_results.csv](election_results.csv)
