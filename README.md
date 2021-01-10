@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Overview of the Election Audit
+## **Overview of the Election Audit**
 A Colorado Board of Elections employee gave me the following tasks to complete the election audit of a recent local congressional election:
 1) Calculate the total number of votes cast.
 2) Get a complete list of candidates who received votes. 
@@ -28,7 +28,7 @@ The analysis of the election shows that:
 - The county with the largest number of votes was:
 	- Denver county, which accounted for 82.8% of the vote with 306,055 of votes.
 - The following image of the election results that were written into our .txt file at the end of the audit also offer a useful and concise visual of the election results:
--	electionResultsPic.png
+![](electionResultsPic.png)
 
 ## Election-Audit Summary
 With some modifications, this script can be used for any election, including one with more expansive voter data. 
